@@ -22,7 +22,7 @@ Breast cancer is a prevalent health concern worldwide, and early detection signi
 
 ## Requirements
 
-    Python 3.x
+    Python 3.12
     TensorFlow
     Keras
     NumPy
